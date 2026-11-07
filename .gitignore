@@ -1,0 +1,18 @@
+# Java build output
+/build/
+/bin/
+/out/
+*.class
+
+# IDE and local workspace metadata
+.metadata/
+.idea/
+*.iml
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Generated GPC-Fuzzy experiment CSVs are tracked only if intentionally added
+# (Do not ignore results/algorithm-comparison/)
